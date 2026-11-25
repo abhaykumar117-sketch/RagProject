@@ -1,0 +1,15 @@
+.env
+venv/
+myenv/
+__pycache__/
+*.pyc
+
+.env
+.streamlit/secrets.toml
+
+
+pdf_ocr_cache.json
+
+# IDE Settings
+.vscode/
+.idea/
